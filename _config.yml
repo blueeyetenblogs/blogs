@@ -1,0 +1,21 @@
+title: "My Personal Blog"
+description: "Writing about travel, tech, and work experiences."
+author: "Sambhu"
+email: "blueeyetenblogs@gmail.com"
+baseurl: ""
+url: "https://blueeyeten.com"
+theme: null
+markdown: kramdown
+plugins:
+  - jekyll-feed
+
+# Navigation
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about
+  - title: "Blog"
+    url: /
+  - title: "Contact"
+    url: /contact

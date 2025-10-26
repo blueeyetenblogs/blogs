@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Bannerghatta National Park"
+---
+
 Here's a way to enjoy your weekend
 
 We went for a weekend outing to Bannerghatta National Park. In techie terminology, it was a seamless experience.

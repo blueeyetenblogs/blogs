@@ -12,8 +12,9 @@ plugins:
 collections:
   posts:
     output: true
-
   tech_posts:
+    output: true
+  travel_posts:
     output: true
 
 # Navigation
@@ -24,4 +25,6 @@ nav:
     url: /about
   - title: "Tech"
     url: /tech
+  - title: "Travel"
+    url: /travel
   

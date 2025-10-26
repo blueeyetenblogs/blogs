@@ -5,7 +5,7 @@ title: Home
 
 # Latest Posts
 
-## 🧠 Tech
+## 🔧 Tech
 <ul class="post-list">
   {% assign tech_posts = site.tech_posts | sort: 'date' | reverse %}
   {% for post in tech_posts limit:3 %}

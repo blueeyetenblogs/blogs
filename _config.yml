@@ -21,10 +21,12 @@ collections:
 nav:
   - title: "Home"
     url: /
-  - title: "About"
-    url: /about
   - title: "Tech"
     url: /tech
   - title: "Travel"
     url: /travel
+  - title: "Philosophy"
+    url: /philosophy
+  - title: "About"
+    url: /about
   

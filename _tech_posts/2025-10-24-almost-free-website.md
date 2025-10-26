@@ -1,3 +1,8 @@
+---
+layout: post
+title: "Almost Free Website"
+---
+
 Here's a tech hack to create your own almost free website. Mostly what influencers tell you as their own idea.
 
 1. Type in "How to create github pages" in Google. Google's AI engine will give you the steps. Follow that.

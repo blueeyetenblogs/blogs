@@ -9,9 +9,19 @@ markdown: kramdown
 plugins:
   - jekyll-feed
 
+collections:
+  posts:
+    output: true
+
+  tech_posts:
+    output: true
+
 # Navigation
 nav:
   - title: "Home"
     url: /
   - title: "About"
     url: /about
+  - title: "Tech"
+    url: /tech
+  

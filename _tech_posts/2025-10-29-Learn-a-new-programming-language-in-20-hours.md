@@ -11,8 +11,9 @@ In 20 hours you are going to learn a new language. Following the steps let you u
     3. Learn about the keywords, datatypes and variables
     4. Learn about loops and control flows
     5. Learn about functions
-    6. Learn about classes(if present)
-    7. Learn about importing 3rd party modules
+    6. Learn about data structures
+    7. Learn about file handling
+    8. Learn about importing 3rd party modules
 
 2. Read blogs and online articles on the tricks that can be used
 3. Practice
